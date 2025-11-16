@@ -1,4 +1,4 @@
-module github.com/obalunenko/strava-api
+module github.com/pedrodeoliveira/strava-api
 
 go 1.25
 
