@@ -5,9 +5,9 @@ import (
 
 	"github.com/go-openapi/runtime"
 
-	strava "github.com/obalunenko/strava-api/internal/gen/strava-api-go/client"
-	apiathletes "github.com/obalunenko/strava-api/internal/gen/strava-api-go/client/athletes"
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/models"
+	strava "github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client"
+	apiathletes "github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client/athletes"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/models"
 )
 
 // AthletesAPI is an interface for interacting with athletes endpoints of Strava API

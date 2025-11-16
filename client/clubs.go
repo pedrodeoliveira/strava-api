@@ -5,9 +5,9 @@ import (
 
 	"github.com/go-openapi/runtime"
 
-	strava "github.com/obalunenko/strava-api/internal/gen/strava-api-go/client"
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/client/clubs"
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/models"
+	strava "github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client/clubs"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/models"
 )
 
 // ClubsAPI is an interface for interacting with clubs endpoints of Strava API

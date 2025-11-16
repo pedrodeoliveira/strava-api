@@ -5,9 +5,9 @@ import (
 
 	"github.com/go-openapi/runtime"
 
-	strava "github.com/obalunenko/strava-api/internal/gen/strava-api-go/client"
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/client/segments"
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/models"
+	strava "github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client/segments"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/models"
 )
 
 // SegmentsAPI is an interface for interacting with segments endpoints of Strava API

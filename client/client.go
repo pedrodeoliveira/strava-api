@@ -5,7 +5,7 @@ package client
 import (
 	httptransport "github.com/go-openapi/runtime/client"
 
-	apiclient "github.com/obalunenko/strava-api/internal/gen/strava-api-go/client"
+	apiclient "github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client"
 )
 
 // APIClient is a wrapper around the generated Strava API client.

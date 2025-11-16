@@ -5,9 +5,9 @@ import (
 
 	"github.com/go-openapi/runtime"
 
-	strava "github.com/obalunenko/strava-api/internal/gen/strava-api-go/client"
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/client/routes"
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/models"
+	strava "github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client/routes"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/models"
 )
 
 // RoutesAPI is an interface for interacting with routes endpoints of Strava API

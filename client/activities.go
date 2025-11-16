@@ -7,9 +7,9 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	strava "github.com/obalunenko/strava-api/internal/gen/strava-api-go/client"
-	apiactivities "github.com/obalunenko/strava-api/internal/gen/strava-api-go/client/activities"
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/models"
+	strava "github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client"
+	apiactivities "github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client/activities"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/models"
 )
 
 // ActivitiesAPI is an interface for interacting with activities endpoints of Strava API

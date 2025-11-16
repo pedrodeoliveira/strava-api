@@ -18,7 +18,7 @@ import (
 	"os"
 	"time"
 
-	strava "github.com/obalunenko/strava-api/client"
+	strava "github.com/pedrodeoliveira/strava-api/client"
 )
 
 func main() {

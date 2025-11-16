@@ -45,7 +45,7 @@ docker compose -f deployments/docker-compose/go-tools-docker-compose.yml up --ex
 - Tests in `examples/client_example_test.go` serve as integration tests and usage documentation
 - Tests require `STRAVA_ACCESS_TOKEN` environment variable
 - Helper functions: `getToken(t)` for auth, `printJSON(t, v)` for debug output
-- Uses `github.com/obalunenko/getenv` for environment variable handling
+- Uses `github.com/pedrodeoliveira/getenv` for environment variable handling
 
 ## Code Patterns & Conventions
 

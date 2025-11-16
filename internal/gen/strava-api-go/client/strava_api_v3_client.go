@@ -10,15 +10,15 @@ import (
 	httptransport "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/client/activities"
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/client/athletes"
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/client/clubs"
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/client/gears"
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/client/routes"
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/client/segment_efforts"
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/client/segments"
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/client/streams"
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/client/uploads"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client/activities"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client/athletes"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client/clubs"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client/gears"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client/routes"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client/segment_efforts"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client/segments"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client/streams"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/client/uploads"
 )
 
 // Default strava API v3 HTTP client.

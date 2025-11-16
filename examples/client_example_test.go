@@ -5,10 +5,10 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/obalunenko/getenv"
+	"github.com/pedrodeoliveira/getenv"
 	"github.com/stretchr/testify/require"
 
-	"github.com/obalunenko/strava-api/client"
+	"github.com/pedrodeoliveira/strava-api/client"
 )
 
 // helper function to print JSON

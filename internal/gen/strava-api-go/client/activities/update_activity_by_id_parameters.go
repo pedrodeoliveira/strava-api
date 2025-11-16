@@ -16,7 +16,7 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
 
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/models"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/models"
 )
 
 // NewUpdateActivityByIDParams creates a new UpdateActivityByIDParams object,

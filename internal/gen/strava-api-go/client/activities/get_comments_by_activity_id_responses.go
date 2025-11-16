@@ -13,7 +13,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/models"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/models"
 )
 
 // GetCommentsByActivityIDReader is a Reader for the GetCommentsByActivityID structure.

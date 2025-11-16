@@ -13,7 +13,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/obalunenko/strava-api/internal/gen/strava-api-go/models"
+	"github.com/pedrodeoliveira/strava-api/internal/gen/strava-api-go/models"
 )
 
 // GetRouteAsTCXReader is a Reader for the GetRouteAsTCX structure.
