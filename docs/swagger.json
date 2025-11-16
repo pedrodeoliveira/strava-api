@@ -2904,7 +2904,8 @@
         },
         "elapsed_time": {
           "description": "The total elapsed time of the considered activities.",
-          "type": "integer"
+          "type": "number",
+            "format": "float"
         },
         "elevation_gain": {
           "description": "The total elevation gain of the considered activities.",
@@ -2913,7 +2914,8 @@
         },
         "moving_time": {
           "description": "The total moving time of the considered activities.",
-          "type": "integer"
+          "type": "number",
+          "format": "float"
         }
       }
     },
